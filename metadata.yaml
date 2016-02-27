@@ -1,0 +1,29 @@
+_repo: Wild-Flowers-An-Aid-to-Knowledge-of-Our-Wild-Flowers-and-Their-Insect-Visitors_3003
+creator:
+  author:
+    agent_name: Blanchan, Neltje
+    aliases:
+    - Blanchon, Neltje
+    - Doubleday, Nellie Blanchan De Graff
+    birthdate: 1865
+    deathdate: 1918
+    gutenberg_agent_id: '738'
+    url: http://www.gutenberg.org/2009/agents/738
+    wikipedia: http://en.wikipedia.org/wiki/Neltje_Blanchan
+description: ''
+gutenberg_bookshelf: Botany
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wild flowers -- North America'
+- !lcc 'QK'
+title: 'Wild Flowers
+
+  An Aid to Knowledge of Our Wild Flowers and Their Insect Visitors'
+url: http://www.gutenberg.org/ebooks/3003
