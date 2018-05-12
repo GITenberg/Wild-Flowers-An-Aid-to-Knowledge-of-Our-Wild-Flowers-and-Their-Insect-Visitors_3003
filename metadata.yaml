@@ -1,5 +1,8 @@
 _repo: Wild-Flowers-An-Aid-to-Knowledge-of-Our-Wild-Flowers-and-Their-Insect-Visitors_3003
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blanchan, Neltje
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/738
     wikipedia: http://en.wikipedia.org/wiki/Neltje_Blanchan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3003#Wild-Flowers-An-Aid-to-Knowledge-of-Our-Wild-Flowers-and-Their-Insect-Visitors
 gutenberg_bookshelf: Botany
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
